@@ -1,0 +1,12 @@
+{
+    "accuracy": 0.21015514809590974,
+    "n_train_samples": 2835,
+    "n_val_samples": 709,
+    "labels": [
+        "DoS",
+        "Probe",
+        "R2L",
+        "U2R",
+        "normal"
+    ]
+}
